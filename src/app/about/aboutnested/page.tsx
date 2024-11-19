@@ -1,5 +1,4 @@
 "use client"
-import Image from "next/image";
 import Typewriter from 'typewriter-effect';
 // import Hero from "./components/hero";
 
